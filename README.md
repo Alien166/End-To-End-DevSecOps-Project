@@ -3,6 +3,17 @@
 ## 📌 Project Overview  
 This project demonstrates a **secure and scalable deployment of Netflix** on **Kubernetes**, integrating **DevSecOps** best practices. It automates **CI/CD, security scanning, and monitoring** using a modern toolset, ensuring a robust and production-ready environment.  
 
+📌 **Netfilx Home Page**  
+![Home page ](img/Home.png)  
+
+ **popular Page**  
+![popular page ](img/popular.png)  
+
+
+ **movie Page**  
+![Panda  ](img/panda.png)  
+
+
 ##  Architecture  
 
 The deployment is hosted on **AWS**, with the following infrastructure components:  
