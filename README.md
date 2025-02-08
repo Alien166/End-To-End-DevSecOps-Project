@@ -1,9 +1,9 @@
-# 🚀 Deploying Netflix on Kubernetes with DevSecOps  
+#  Deploying Netflix on Kubernetes with DevSecOps  
 
-## 📌 Project Overview  
+##  Project Overview  
 This project demonstrates a **secure and scalable deployment of Netflix** on **Kubernetes**, integrating **DevSecOps** best practices. It automates **CI/CD, security scanning, and monitoring** using a modern toolset, ensuring a robust and production-ready environment.  
 
-📌 **Netfilx Home Page**  
+ **Netfilx Home Page**  
 ![Home page ](img/Home.png)  
 
  **popular Page**  
@@ -32,7 +32,7 @@ The deployment is hosted on **AWS**, with the following infrastructure component
 4. **Kubernetes Worker Server**  
    - which the application will be deployed by the master node  
 
-📌 **Infrastructure Diagram:**  
+ **Infrastructure Diagram:**  
 ![DevSecOps Architecture](img/architecture.png)  
 
 ---
@@ -63,7 +63,7 @@ The deployment is hosted on **AWS**, with the following infrastructure component
 8️⃣ **Monitoring is handled via Prometheus & Grafana**  
 9️⃣ **Email alerts notify the team** of security issues  
 
-📌 **Jenkins Pipeline Flow:**  
+ **Jenkins Pipeline Flow:**  
 ![Jenkins Pipeline](img/pipeline.png)  
 
 ---
