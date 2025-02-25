@@ -33,7 +33,7 @@ The deployment is hosted on **AWS**, with the following infrastructure component
    - which the application will be deployed by the master node  
 
  **Infrastructure Diagram:**  
-![DevSecOps Architecture](img/architecture.png)  
+![DevSecOps Architecture](img/architecture.gif)  
 
 ---
 
